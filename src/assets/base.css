@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: transparent;
+}
+
+/* @font-face {
+  font-family: "CUTE";
+  src: url("./fonts/CUTE.woff2");
+}
+
+@font-face {
+  font-family: "KaiWen";
+  src: url("./fonts/WenKai.ttf");
+} */
